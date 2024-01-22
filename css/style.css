@@ -16,6 +16,10 @@
   }
 }
 
+#about-us {
+  height: 100vh;
+}
+
 .icon-square {
   width: 3rem;
   height: 3rem;
@@ -33,10 +37,6 @@
 }
 .mai-title2 {
   font-size: 50px;
-}
-
-#about-us {
-  height: 75vh;
 }
 
 .btn-mai {
